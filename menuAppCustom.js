@@ -58,7 +58,7 @@ class Menu {
       selection = this.showMainMenuOptions();
     }
 
-    alert("Goodbye!");
+    alert("Exiting Menu");
   }
 
   showMainMenuOptions() {
